@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum YorTurn {
+public enum YourTurn {
+	YES,
+	NO
 }
